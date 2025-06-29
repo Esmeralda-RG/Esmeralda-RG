@@ -1,11 +1,6 @@
-# Esmeralda Rivas
+# 👋 Hi there!
 
-Systems Engineering Student | Passionate about Flutter and Backend Development
-
----
-
-
-Hi there! I'm Esmeralda — a software developer in training with a strong passion for building meaningful tech solutions.  
+I'm Esmeralda — a software developer in training with a strong passion for building meaningful tech solutions.  
 I'm passionate about **mobile development using Flutter**, and I truly enjoy working on the backend with **Node.js** and **Spring Boot**.
 
 I've participated in academic projects, research groups, and team-based development using **Scrum** methodologies. I'm always eager to learn, build, and contribute.
